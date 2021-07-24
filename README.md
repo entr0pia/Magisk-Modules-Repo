@@ -4,8 +4,6 @@
 
 ## 1. 自制
 
-[License | 开源许可](https://github.com/entr0pia/Magisk-Modules-Repo/blob/master/LICENSE)
-
 ### 1.1 等距更纱黑体
 
 - [更纱黑体](https://github.com/be5invis/Sarasa-Gothic#readme)字体模块, 选取 Mono SC 字型. 字型特点: 等宽, 连字, 全宽破折号. 由 [font-modular](https://github.com/entr0pia/font-modular#readme) 自动打包
@@ -15,6 +13,7 @@
 
 - 导入用户词典 (user_dict_3_3), 支持简拼和双拼, 不同于"个人字典". 词库文件来自 [GboardDictionary](https://github.com/NZJ-Jimmy/GboardDictionary)
 - 下载地址: 1. [Github](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/gboard_dict_3.zip); 2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/gboard_dict_3.zip)
+- 生效后可移除; 若失效请重刷
 
 ### 1.3 国内 GPS 配置
 
@@ -32,6 +31,7 @@
 
 - 空格键 Google 图标长时间显示，横屏、多窗口自动浮动键盘，中文语音输入，剪贴板自动粘贴建议，导航栏样式跟随主题颜色，包含一系列实验性设置……
 - 下载地址: 1. [Github](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Gboard_Value.zip); 2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Gboard_Value.zip)
+- 若失效请重刷
 
 ### 2.2 停用HW叠加层
 
