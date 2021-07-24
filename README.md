@@ -1,4 +1,4 @@
-# Magisk Modules    Repo
+# Magisk Modules Repo
 
 个人制作和收集的 Magisk 模块
 
@@ -8,7 +8,7 @@
 
 ### 1.1 等距更纱黑体
 
-- [更纱黑体](https://github.com/be5invis/Sarasa-Gothic#readme)字体模块, 选取 Mono SC 字型. 字型特点: 等宽, 连字, 全宽破折号. 由 [font-modular](https://github.com/entr0pia/font-modular#readme) 自动打包.
+- [更纱黑体](https://github.com/be5invis/Sarasa-Gothic#readme)字体模块, 选取 Mono SC 字型. 字型特点: 等宽, 连字, 全宽破折号. 由 [font-modular](https://github.com/entr0pia/font-modular#readme) 自动打包
 - 下载地址: 1. [Github](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Sarasa_Mono_SC.zip); 2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Sarasa_Mono_SC.zip)
 
 ### 1.2 Gboard 词库
