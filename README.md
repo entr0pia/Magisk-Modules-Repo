@@ -1,6 +1,6 @@
 # Magisk Modules Repo
 
-个人制作和收集的 Magisk 模块
+个人制作和收集的 Magisk 模块. 代理使用 [GitHub Proxy 代理加速 - 镜像站](https://ghproxy.com/)
 
 ## 1. 自制
 
