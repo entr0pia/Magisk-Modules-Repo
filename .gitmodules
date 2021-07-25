@@ -1,3 +1,3 @@
-[submodule ".\\modules\\Sarasa_Mono_SC"]
-	path = .\\modules\\Sarasa_Mono_SC
+[submodule "modules/font-modular"]
+	path = modules/font-modular
 	url = https://github.com/entr0pia/font-modular.git
