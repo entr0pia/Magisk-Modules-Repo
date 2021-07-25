@@ -11,7 +11,7 @@
 
 ### 1.2 Gboard 词库
 
-- 用户词典 (user_dict_3_3), 支持简拼和双拼. 共81299条, 涵盖日常, 地名, 计算机, 数学, 酷安等词汇. user-dictionary.txt 为标准谷歌拼音词库, 可直接导入谷歌拼音
+- 用户词典 (user_dict_3_3), 支持简拼和双拼. 共81299条, 来自网络, 涵盖日常, 地名, 计算机, 数学, 酷安等词汇. user-dictionary.txt 为标准谷歌拼音词库, 可直接导入谷歌拼音
 - 下载地址: 1. [Github](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Gboard_dict_3.zip); 2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Gboard_dict_3.zip)
 - 若失效请重刷
 
