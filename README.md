@@ -12,13 +12,13 @@
 ### 1.2 Gboard 词库
 
 - 导入用户词典 (user_dict_3_3), 支持简拼和双拼, 不同于"个人字典". 词库文件来自 [GboardDictionary](https://github.com/NZJ-Jimmy/GboardDictionary)
-- 下载地址: 1. [Github](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/gboard_dict_3.zip); 2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/gboard_dict_3.zip)
+- 下载地址: 1. [Github](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Gboard_dict_3.zip); 2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Gboard_dict_3.zip)
 - 若失效请重刷
 
 ### 1.3 国内 GPS 配置
 
 - 修复非国行系统的手机在国内的定位偏移问题, 适配 Magisk v20.3+. 原始模块见 [Oxygen-OS-Gps.conf-Back-china](https://github.com/user1121114685/Oxygen-OS-Gps.conf-Back-china)
-- 下载地址: 1. [Github](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/ChinaGPS.zip); 2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/ChinaGPS.zip)
+- 下载地址: 1. [Github](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/China_GPS.zip); 2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/China_GPS.zip)
 
 ### 1.4 哈苏相机音效
 
