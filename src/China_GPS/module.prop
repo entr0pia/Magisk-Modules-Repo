@@ -1,7 +1,0 @@
-id=chinagps
-name=ChinaGPS
-version=v2.0
-versionCode=20210529
-author=entr0pia@Github, 联盟少侠@酷安
-description=替换为适用于中国大陆地区的GPS配置文件
-minMagisk=20300
