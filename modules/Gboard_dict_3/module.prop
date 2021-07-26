@@ -1,6 +1,6 @@
 id=gboard-dict-3
 name=Gboard user_dict_3_3 词库
-version=v1.2
-versionCode=20210725
+version=v1.2.1
+versionCode=20210726
 author=entr0pia@GitHub
 description=用户词典 (user_dict_3_3), 支持简拼和双拼. 共81299条, 涵盖日常, 地名, 计算机, 数学, 酷安等词汇. user-dictionary.txt 为标准谷歌拼音词库, 可直接导入谷歌拼音
