@@ -13,7 +13,7 @@
 
 - 用户词典 (user_dict_3_3), 支持简拼和双拼. 共773926个词条, 涵盖日常, 地名, 计算机, 酷安, 文法理工农医等词汇. 根据手机性能不同, 新词库需要3分钟左右生效
 - 下载地址: 1. [Github](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Gboard_dict_3.zip); 2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Gboard_dict_3.zip)
-- 字典语料库见 [corpus](https://github.com/entr0pia/Magisk-Modules-Repo/tree/master/corpus)
+- 字典语料库见 [corpus](https://github.com/entr0pia/Gboard_dict_3/tree/master/corpus)
 - 若失效请重刷
 
 ### 1.3 国内 GPS 配置

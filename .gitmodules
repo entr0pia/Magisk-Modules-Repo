@@ -1,3 +1,6 @@
 [submodule "modules/font-modular"]
 	path = modules/font-modular
 	url = https://github.com/entr0pia/font-modular.git
+[submodule "modules/Gboard_dict_3"]
+	path = modules/Gboard_dict_3
+	url = https://github.com/entr0pia/Gboard_dict_3.git
