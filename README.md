@@ -38,3 +38,9 @@
 
 - 强制开发者选项里停用 HW 叠加层开关开启
 - 下载地址: 1. [GIthub](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Disable_HWoverlays.zip); 2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Disable_HWoverlays.zip)
+
+### 2.3 Xperia 助手建重定向
+
+- [主页](https://forum.xda-developers.com/t/assistant-button-remapper-module-magisk-xposed.4323643/)
+- 将非国行 ROM 的助手键代码重定向, 以便用 **Xposed Edge** 之类的模块修改
+- 下载地址: 1. [GIthub](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/XperiaGAButtonRemap.zip); 2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/XperiaGAButtonRemap.zip)
