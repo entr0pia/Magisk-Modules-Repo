@@ -2,7 +2,7 @@
 
 个人制作和收集的 Magisk 模块. 代理使用 [GitHub Proxy 代理加速 - 镜像站](https://ghproxy.com/)
 
-## 1. 自制
+## 1. 自制 (修改)
 
 ### 1.1 等距更纱黑体
 
@@ -18,7 +18,8 @@
 
 ### 1.3 国内 GPS 配置
 
-- 修复非国行系统的手机在国内的定位偏移问题, 适配 Magisk v20.3+. 原始模块见 [Oxygen-OS-Gps.conf-Back-china](https://github.com/user1121114685/Oxygen-OS-Gps.conf-Back-china)
+- 修复非国行系统的手机在国内的定位偏移问题, 适配 Magisk v20.3+
+- 原始模块见 [Oxygen-OS-Gps.conf-Back-china](https://github.com/user1121114685/Oxygen-OS-Gps.conf-Back-china)
 - 下载地址: 1. [Github](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/China_GPS.zip); 2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/China_GPS.zip)
 
 ### 1.4 哈苏相机音效
@@ -26,6 +27,11 @@
 - 使用一加 9 哈苏联名音效, 仅部分设备有效
 - 下载地址: 1. [Github](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Hassel_Shutter.zip); 2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Hassel_Shutter.zip)
 
+### 1.5 App Systemizer
+
+- 将 App 转为系统应用. 例如: 启用【[绿色守护](https://www.coolapk.com/apk/com.oasisfeng.greenify) | [Greenify](https://play.google.com/store/apps/details?id=com.oasisfeng.greenify)】特权模式
+- 原始模块见 [Magisk-Modules-Repo/terminal_systemizer](https://github.com/Magisk-Modules-Repo/terminal_systemizer)
+- 下载地址: 1. [Github](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/terminal_systemizer.zip); 2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/terminal_systemizer.zip)
 ## 2. 收集
 
 ### 2.1 Gboard 配置补丁
