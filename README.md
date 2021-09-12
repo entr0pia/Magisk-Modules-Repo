@@ -32,6 +32,13 @@
 - 将 App 转为系统应用. 例如: 启用【[绿色守护](https://www.coolapk.com/apk/com.oasisfeng.greenify) | [Greenify](https://play.google.com/store/apps/details?id=com.oasisfeng.greenify)】特权模式
 - 原始模块见 [Magisk-Modules-Repo/terminal_systemizer](https://github.com/Magisk-Modules-Repo/terminal_systemizer)
 - 下载地址: 1. [Github](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/terminal_systemizer.zip); 2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/terminal_systemizer.zip)
+
+### 1.6 Greenify4Magisk
+
+- 将【[绿色守护](https://www.coolapk.com/apk/com.oasisfeng.greenify) | [Greenify](https://play.google.com/store/apps/details?id=com.oasisfeng.greenify)】转为系统应用, 开启特权模式
+- 原始模块见 [RohanDebroy/Greenify4Magisk](https://github.com/RohanDebroy/Greenify4Magisk)
+- 下载地址: 1. [Github](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Greenify4Magisk.zip); 2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Greenify4Magisk.zip)
+
 ## 2. 收集
 
 ### 2.1 Gboard 配置补丁

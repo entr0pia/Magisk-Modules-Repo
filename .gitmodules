@@ -7,3 +7,6 @@
 [submodule "modules/terminal_systemizer"]
 	path = modules/terminal_systemizer
 	url = https://github.com/entr0pia/terminal_systemizer.git
+[submodule "modules/Greenify4Magisk"]
+	path = modules/Greenify4Magisk
+	url = https://github.com/entr0pia/Greenify4Magisk
