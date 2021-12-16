@@ -39,6 +39,11 @@
 - 原始模块见 [RohanDebroy/Greenify4Magisk](https://github.com/RohanDebroy/Greenify4Magisk)
 - 下载地址: 1. [Github](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Greenify4Magisk.zip); 2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/Greenify4Magisk.zip)
 
+### 1.7 TrichromeLibrary Squoosh
+
+- 重启后移除过时的 TrichromeLibrary. 详见[TrichromeLibrary Squoosh](https://github.com/entr0pia/TrichromeLibrary-Squoosh)
+- 下载地址: 1. [Github](https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/TrichromeLibrary-Squoosh-mm.zip); 2. [代理加速](https://ghproxy.com/https://github.com/entr0pia/Magisk-Modules-Repo/releases/download/latest/TrichromeLibrary-Squoosh-mm.zip)
+
 ## 2. 收集
 
 ### 2.1 Gboard 配置补丁

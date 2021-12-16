@@ -10,3 +10,6 @@
 [submodule "modules/Greenify4Magisk"]
 	path = modules/Greenify4Magisk
 	url = https://github.com/entr0pia/Greenify4Magisk
+[submodule "modules/TrichromeLibrary-Squoosh-mm"]
+	path = modules/TrichromeLibrary-Squoosh-mm
+	url = https://github.com/entr0pia/TrichromeLibrary-Squoosh-mm.git
